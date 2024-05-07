@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center"><u><0l0> </u></h2>
 
-<!--
-**v0l0v/v0l0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bienvenido al repositorio Víctor López](images/banner.png)
+<h4 align="center"> Bienvenido al repositorio Víctor López </h4>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://img.shields.io/github/stars/v0l0v/https://github.com/v0l0v?style=for-the-badge&color=orange">
+<br>
+    <img src="https://img.shields.io/badge/Author-v0l0v-magenta?style=flat-square">
+    <img src="https://img.shields.io/badge/Open%20Source-yes-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Made%20In-spain-green?style=flat-square">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [+] Description
+Este repositorio refleja mi camino de aprendizaje y práctica en el mundo de la programación. Aquí comparto mis experiencias y experimentos con tecnologías como HTML, CSS, JavaScript, Python, Git y GitHub. Todo lo que encontrarás aquí son mis proyectos, colaboraciones y lo que he ido aprendiendo poco a poco.
+
