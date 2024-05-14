@@ -1,10 +1,10 @@
-<h2 align="center"><u><0l0> </u></h2>
+<h2 align="center"><u> <0l0> </u></h2>
 
 ![Bienvenido al repositorio Víctor López](baner.png)
 <h4 align="center"> Bienvenido al repositorio Víctor López </h4>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/v0l0v/https://github.com/v0l0v?style=for-the-badge&color=orange">
+    <img src="https://img.shields.io/github/stars/v0l0v/v0l0v?style=for-the-badge&color=orange">
 <br>
     <img src="https://img.shields.io/badge/Author-v0l0v-magenta?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-yes-orange?style=flat-square">
