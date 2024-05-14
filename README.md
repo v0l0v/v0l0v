@@ -1,6 +1,6 @@
 <h2 align="center"><u><0l0> </u></h2>
 
-![Bienvenido al repositorio Víctor López](images/banner2.png)
+![Bienvenido al repositorio Víctor López](images/banner.png)
 <h4 align="center"> Bienvenido al repositorio Víctor López </h4>
 
 <p align="center">
