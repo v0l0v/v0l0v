@@ -1,7 +1,7 @@
 <h2 align="center"><u> <0l0> </u></h2>
 
-![Bienvenido al repositorio Víctor López](baner.png)
-<h4 align="center"> Bienvenido al repositorio Víctor López </h4>
+![Bienvenido al repositorio v0l0v](baner.png)
+<h4 align="center"> Bienvenido al repositorio v0l0v </h4>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/v0l0v/v0l0v?style=for-the-badge&color=orange">
